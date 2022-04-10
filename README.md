@@ -1,0 +1,2 @@
+# Management_User_With_Vuejs
+A user management system that includes logging in, out and registering within the site And some restrictions on access operations and also the ability to modify personal data This site depends on the api where a fake api was used using jsonserver also a set of packages were used, for example: vuelidate, bootstrap, axios, vuex, vueRouter In the about page, it also contains settings to connect to the SignalR hup, which is a real time web sokets in the asp .netcore affiliated to a project on this account called skinet_onion.
