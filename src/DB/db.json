@@ -1,0 +1,23 @@
+{
+  "users": [
+    {
+      "name": "Ibrahim Alia",
+      "email": "abrahimalia27@gmail.com",
+      "password": "e3U5rp3cf6ey53k",
+      "id": 1
+    },
+    {
+      "name": "sdsdsd",
+      "email": "abrahimalia247@gmail.com",
+      "password": "e3U5rp3cf6ey53k",
+      "id": 2
+    },
+    {
+      "name": "rerer",
+      "email": "abrahimalia297@gmail.com",
+      "password": "e3U5rp3cf6ey53k",
+      "id": 3
+    }
+  ],
+  "locations": []
+}
